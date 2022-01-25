@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Regional Politics"
+    ]
+  ],
+  "legacy_uid": "4cdf2ca9-7ede-d211-9e63-69072ae2a86c",
+  "instructors": {
+    "content": [
+      "799cef5b-e8f2-b499-403e-da51690cf0f0",
+      "9c5df89c-6a52-0e80-f7d9-44edc0617731"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "91db77b8-9a92-92f5-f2f3-474c37bdc8d1",
+    "website": "17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007"
+  },
+  "course_title": "Reading Seminar in Social Science: The Geopolitics and Geoeconomics of Global Energy",
+  "course_description": "This course focuses on strategic and political implications of ongoing trends in global energy markets, particularly markets for crude oil and natural gas. The course examines the world's major oil and natural gas producing regions: the Middle East, the Caspian Region, Russia, Venezuela, and the North Sea. Producer-consumer relationships are considered for China, India, Japan, and the United States. United States foreign policy implications, especially with respect to China, are discussed.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.951",
+  "primary_course_number": "17.906",
+  "course_image_thumbnail": {
+    "content": "b876acd2-2a44-9f99-e333-822aecc4bde9",
+    "website": "17-906-reading-seminar-in-social-science-the-geopolitics-and-geoeconomics-of-global-energy-spring-2007"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "ead1e403-490c-4775-b7ae-def990b78a44",
+  "title": "Course Metadata"
+}
